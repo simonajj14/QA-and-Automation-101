@@ -1,9 +1,13 @@
 1.Summary: 
-2.Component: 
+2.Version:
 3.OS: 
 4.Description: 
-5.Steps to Reproduce: 
-6.Actual Results: 
-7.Expected Results: 
-8.Priority
-9.State
+5.How often to reproduce:
+6.Steps to Reproduce: 
+7.Actual Results: 
+8.Expected Results: 
+9.Priority
+10.State
+
+
+
